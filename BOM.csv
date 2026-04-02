@@ -1,0 +1,16 @@
+Ref,Component,Qty,Unit Price (₹),Total (₹),Store,Link
+MCU,YD-RP2040,1,326.54,326.54,Probots,https://probots.co.in/yd-rp2040-4mb-flash-usb-type-c-pico-compatible.html
+IC1,74AHCT125DR (Logic Level Shifter),1,328.72,328.72,Evelta,https://evelta.com/sn74hct125dr-buffer-line-driver-4ch-non-inverting-3-st-cmos-soic-14/
+C,100nF 0805 Ceramic Capacitor (>= 6.3V),105,2.18,228.90,Robu.in,https://robu.in/product/100nf-0805-surface-mount-multilayer-ceramic-capacitor-pack-of-40/
+R,10kΩ 0805 Resistor,2,2.18,4.36,Robu.in,https://robu.in/product/10k-ohm-1-4w-0805-surface-mount-chip-resistor-pack-of-10/
+D,1N4148W Diode (SOD-123),103,2.18,224.54,Robu.in,https://robu.in/product/1n4148w-7-f-diodes-inc-1n4148w-7-f-small-signal-diode-single-100-v-300-ma-1-25-v-4-ns-2-a/
+HS,Kailh Hot-Swap Sockets (x103),1,899.89,899.89,Meckeys,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
+SW,Gateron G Pro 3.0 Switch (MX),103,40.41,4162.23,Meckeys,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/
+OLED,1.5 Inch OLED Display 128x128 I2C,1,464.14,464.14,Robu.in,https://robu.in/product/0-91-inch-128x32-i2c-iic-serial-blue-oled-lcd-display-module/
+LED,SK6812 Mini-E RGB LED (x200),2,369.13,738.26,StacksKB,https://stackskb.com/store/
+KP,Keycap Set (MX compatible),1,1848.93,1848.93,Meckeys,https://meckeys.com/category/accessories/keyboard-accessories/keycaps/
+SCR,M3x8 Socket Head Cap Screw,8,5.46,43.68,Robu.in,https://robu.in/product/easymech-set-m3-x-8mm-socket-head-cap-allen-bolt-nut-12-pcs/
+INS,Hot Melt Insert M3 L4 OD4.2,8,12.01,96.08,Robu.in,https://robu.in/product/m3-x-8-mm-brass-heat-set-threaded-round-insert-nut-25-pcs/
+FEET,Silicone Feet 12x3mm (x4),1,78.63,78.63,Amazon.in,https://www.amazon.in/s?k=silicone+feet+12mm+self+adhesive
+PCB,"Custom PCB (JLCPCB, no assembly)",1,4368.40,4368.40,JLCPCB,https://jlcpcb.com
+,Exchange rate: 1 EUR = ₹109.21 (29 Mar 2026),,,"TOTAL: ₹13,813.30",,
